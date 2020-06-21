@@ -1,1 +1,0 @@
-# Jekyll based site for InterviewBey
